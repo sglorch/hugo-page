@@ -1,3 +1,4 @@
 baseURL = 'https://sglorch.de/'
 languageCode = 'en-US'
 title = 'Stefan Glorch'
+theme = "hugo-theme-shell"
